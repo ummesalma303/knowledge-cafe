@@ -1,14 +1,14 @@
-
 import './App.css'
+import Blogs from './components/Blogs/Blogs'
+import Header from './components/Header/Header'
 
 function App() {
 
   return (
-    <>
-      <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-    </>
+    <div className='w-11/12 mx-auto'>
+      <Header></Header>
+      <Blogs></Blogs>
+    </div>
   )
 }
 

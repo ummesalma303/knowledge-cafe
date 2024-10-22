@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/cover1.jpg",
+      "title": "The Secrets of Quantum Computing",
+      "author_img": "https://example.com/author1.jpg",
+      "author_name": "Dr. Alice Quantum",
+      "posted_date": "2024-09-15",
+      "reading_time": 8,
+      "hashtags": ["#QuantumComputing", "#Tech"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Exploring the Depths of the Ocean",
+      "author_img": "https://example.com/author2.jpg",
+      "author_name": "Captain Nemo",
+      "posted_date": "2024-08-10",
+      "reading_time": 12,
+      "hashtags": ["#Oceanography", "#Science"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "The Future of AI: Opportunities and Challenges",
+      "author_img": "https://example.com/author3.jpg",
+      "author_name": "Dr. Ada Lovelace",
+      "posted_date": "2024-07-25",
+      "reading_time": 10,
+      "hashtags": ["#ArtificialIntelligence", "#FutureTech"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Sustainable Living: A Guide to Eco-Friendly Practices",
+      "author_img": "https://example.com/author4.jpg",
+      "author_name": "Greta Green",
+      "posted_date": "2024-10-01",
+      "reading_time": 7,
+      "hashtags": ["#Sustainability", "#EcoFriendly"]
+    }
+  ]
+  
